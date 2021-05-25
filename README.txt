@@ -7,7 +7,7 @@ Ejercicio de Práctica
 Segunda Modificación
  
 25/05/2021
- 1. Knowledgde added thanked to Git, GitHub and GitBas
+ 1. Knowledge acquired thanks to Git, GitHub and GitBas
 	
 	During this second term, I've learned enought about this form of save and 
 	use the differents repositorys and files. I've looked the importance of that
